@@ -84,7 +84,7 @@ Use any [Regular Web App Quickstart](/quickstart/webapp) to learn how to call th
 
 ### Single-Page Applications
 
-Use any [Single-Page App Quickstart](/quickstarts/spa) and follow only the **Login** step to learn how to call the login page, handle the callback, and acquire your user's information.
+Use any [Single-Page App Quickstart](/quickstart/spa) and follow only the **Login** step to learn how to call the login page, handle the callback, and acquire your user's information.
 
 ### Native Applications
 
